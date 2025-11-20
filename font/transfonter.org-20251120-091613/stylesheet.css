@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BBH Sans Hegarty';
+    src: url('BBHSansHegarty-Regular.woff2') format('woff2'),
+        url('BBHSansHegarty-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
